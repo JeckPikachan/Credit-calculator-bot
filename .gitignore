@@ -1,0 +1,4 @@
+config.py
+.idea/
+*.png
+__pycache__/
